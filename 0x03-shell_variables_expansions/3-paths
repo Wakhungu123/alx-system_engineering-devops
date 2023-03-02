@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc -l
+alias dir="ls -al | grep ^d"
